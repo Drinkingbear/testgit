@@ -1,1 +1,5 @@
-  i use git
+  i use git 
+
+to say nothing of ,svn is effective than git
+
+so i wrote a summary.
